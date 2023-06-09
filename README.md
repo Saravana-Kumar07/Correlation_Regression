@@ -2,7 +2,7 @@
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
-![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
+<img src="https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)" width="400">
 
 
 # Software required :  
@@ -62,7 +62,7 @@ plt.legend(['Regression Line','Data points'])
 
 
 # Output:
-![](./o1.png)
+<img src="o1.png" width=500>
 
 # Result:
 The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
